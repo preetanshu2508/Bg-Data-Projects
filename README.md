@@ -86,3 +86,7 @@ Creating the DataFrame for starting the analysis using the case class correspond
  - Daman and Diu - 17
  
 *The gender-wise distribution follows the same trend as that of same distribution*
+
+
+##Web log Data Analysis
+Using Map Reduce 
